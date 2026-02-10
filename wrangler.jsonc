@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "my-worker",
+	"name": "myworker",
 	"main": "src/index.js",
 	"compatibility_date": "2026-02-05",
 	"workers_dev": true,
