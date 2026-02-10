@@ -37,7 +37,7 @@
 
   "routes": [
 	{
-	  "pattern": "cham.on-fire.app",
+	  "pattern": "*.on-fire.app/*",
 	  "custom_domain": true
 	}
   ]
